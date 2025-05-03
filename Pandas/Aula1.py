@@ -11,5 +11,5 @@ print(dados.tail(5))
 # print(type(dados))
 
 # print(dados['Quartos'])   Aqui vizualizamos a coluna Quartos do nosso dataframe. O parametro deve ser  o nome da nossa coluna. 
-#                           Para colunas multiplas separar por virgula tal qual um array. Ex: ['Quartos', 'Vagas']
+#                           Para colunas multiplas separar por virgula tal qual um array. Ex: ['Quartos', 'Vagas']  
 

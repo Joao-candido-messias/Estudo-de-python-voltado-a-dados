@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Tipo>Quitinete</Tipo>
+    <Valor>1246.840909090909</Valor>
+  </row>
+  <row>
+    <Tipo>Casa de Vila</Tipo>
+    <Valor>1574.3694779116465</Valor>
+  </row>
+  <row>
+    <Tipo>Studio</Tipo>
+    <Valor>2400.0</Valor>
+  </row>
+  <row>
+    <Tipo>Loft</Tipo>
+    <Valor>2557.8823529411766</Valor>
+  </row>
+  <row>
+    <Tipo>Flat</Tipo>
+    <Valor>4546.189075630252</Valor>
+  </row>
+  <row>
+    <Tipo>Apartamento</Tipo>
+    <Valor>4744.614647887324</Valor>
+  </row>
+  <row>
+    <Tipo>Casa</Tipo>
+    <Valor>6793.454922279792</Valor>
+  </row>
+  <row>
+    <Tipo>Casa de Condomínio</Tipo>
+    <Valor>11952.06124497992</Valor>
+  </row>
+</data>
